@@ -1,40 +1,172 @@
 {
-	"cities": [
-		{
-			"cityName": "Lisbon",
-			"country": "Portugal",
-			"emoji": "🇵🇹",
-			"date": "2027-10-31T15:59:59.138Z",
-			"notes": "My favorite city so far!",
-			"position": {
-				"lat": 38.727881642324164,
-				"lng": -9.140900099907554
-			},
-			"id": 73930385
-		},
-		{
-			"cityName": "Madrid",
-			"country": "Spain",
-			"emoji": "🇪🇸",
-			"date": "2027-07-15T08:22:53.976Z",
-			"notes": "",
-			"position": {
-				"lat": 40.46635901755316,
-				"lng": -3.7133789062500004
-			},
-			"id": 17806751
-		},
-		{
-			"cityName": "Berlin",
-			"country": "Germany",
-			"emoji": "🇩🇪",
-			"date": "2027-02-12T09:24:11.863Z",
-			"notes": "Amazing 😃",
-			"position": {
-				"lat": 52.53586782505711,
-				"lng": 13.376933665713324
-			},
-			"id": 98443197
-		}
-	]
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "14ac",
+      "cityName": "Fregenal de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-25T10:09:53.030Z",
+      "notes": "",
+      "position": {
+        "lat": "38.14800468477557",
+        "lng": "-6.635742187500001"
+      }
+    },
+    {
+      "id": "35a0",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "b130",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "6e83",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "b507",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "8e38",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "9c5a",
+      "cityName": "Ourem",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-25T10:12:28.894Z",
+      "notes": "",
+      "position": {
+        "lat": "39.720548173289295",
+        "lng": "-8.525390625000002"
+      }
+    },
+    {
+      "id": "e65d",
+      "cityName": "Aldehuela de la Boveda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-25T10:13:21.083Z",
+      "notes": "",
+      "position": {
+        "lat": "40.8277539530998",
+        "lng": "-6.108398437500001"
+      }
+    },
+    {
+      "id": "f129",
+      "cityName": "Villota del Paramo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-25T10:13:41.852Z",
+      "notes": "",
+      "position": {
+        "lat": "42.599408578365136",
+        "lng": "-4.877929687500001"
+      }
+    },
+    {
+      "id": "4056",
+      "cityName": "Rodeiro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-25T10:14:21.898Z",
+      "notes": "",
+      "position": {
+        "lat": "42.72772036950759",
+        "lng": "-7.954101562500001"
+      }
+    },
+    {
+      "id": "b58d",
+      "cityName": "Torrubia de Soria",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-25T10:14:43.973Z",
+      "notes": "",
+      "position": {
+        "lat": "41.62131325291828",
+        "lng": "-2.0214843750000004"
+      }
+    }
+  ]
 }
